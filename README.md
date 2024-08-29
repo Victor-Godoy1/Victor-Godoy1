@@ -1,7 +1,7 @@
 ### Hi there, I'm Victor! 👋
 
 
-- 📚 Focus on web development 
+- I Created this acount with focus in training and exercises to gradually improve systems development 
 
 
 ##
